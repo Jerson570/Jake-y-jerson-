@@ -1,0 +1,21 @@
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2025-2\wEvaluación\wEvaluación\bin\Debug\wEvaluación.exe.config
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2025-2\wEvaluación\wEvaluación\bin\Debug\wEvaluación.exe
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2025-2\wEvaluación\wEvaluación\bin\Debug\wEvaluación.pdb
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2025-2\wEvaluación\wEvaluación\obj\Debug\wEvaluación.csproj.AssemblyReference.cache
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2025-2\wEvaluación\wEvaluación\obj\Debug\wEvaluación.frmActividadEvaluativa.resources
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2025-2\wEvaluación\wEvaluación\obj\Debug\wEvaluación.Properties.Resources.resources
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2025-2\wEvaluación\wEvaluación\obj\Debug\wEvaluación.csproj.GenerateResource.cache
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2025-2\wEvaluación\wEvaluación\obj\Debug\wEvaluación.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2025-2\wEvaluación\wEvaluación\obj\Debug\wEvaluación.exe
+C:\Users\Usuario\Mi unidad\1. Docencia\IUPB\1. Herramientas II\2025-2\wEvaluación\wEvaluación\obj\Debug\wEvaluación.pdb
+C:\Users\mateo\Source\Repos\Evaluaci-n\wEvaluación\bin\Debug\wEvaluación.exe.config
+C:\Users\mateo\Source\Repos\Evaluaci-n\wEvaluación\bin\Debug\wEvaluación.exe
+C:\Users\mateo\Source\Repos\Evaluaci-n\wEvaluación\bin\Debug\wEvaluación.pdb
+C:\Users\mateo\Source\Repos\Evaluaci-n\wEvaluación\obj\Debug\wEvaluación.csproj.AssemblyReference.cache
+C:\Users\mateo\Source\Repos\Evaluaci-n\wEvaluación\obj\Debug\wEvaluación.exe.config
+C:\Users\mateo\Source\Repos\Evaluaci-n\wEvaluación\obj\Debug\wEvaluación.frmActividadEvaluativa.resources
+C:\Users\mateo\Source\Repos\Evaluaci-n\wEvaluación\obj\Debug\wEvaluación.Properties.Resources.resources
+C:\Users\mateo\Source\Repos\Evaluaci-n\wEvaluación\obj\Debug\wEvaluación.csproj.GenerateResource.cache
+C:\Users\mateo\Source\Repos\Evaluaci-n\wEvaluación\obj\Debug\wEvaluación.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Source\Repos\Evaluaci-n\wEvaluación\obj\Debug\wEvaluación.exe
+C:\Users\mateo\Source\Repos\Evaluaci-n\wEvaluación\obj\Debug\wEvaluación.pdb
